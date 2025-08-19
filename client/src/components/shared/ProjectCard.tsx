@@ -56,7 +56,7 @@ export default function ProjectCard({
         <div className="flex items-center justify-between">
           <span className={`${getStatusColor(status)} font-normal text-sm`}>
             <a
-              href="https://sapciefy"
+              href="https://sapciefy.com"
               target="_blank"
               rel="noopener noreferrer"
               className={`${getStatusColor(
