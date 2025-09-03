@@ -21,18 +21,22 @@ export default function Projects() {
   ];
 
   const projects = [
-    {
-      id: "ar-interior",
-      title: "Spaciefy",
-      description:
-        "Revolutionary augmented reality platform that transforms interior design through real-time 3D visualization and AI-powered recommendations.",
-      category: "AR/VR",
-      status: "Available Now",
-      image:
-        "https://ik.imagekit.io/6o8m1snqt/WhatsApp%20Image%202025-08-19%20at%203.22.10%20PM.jpeg?updatedAt=1755597667298",
-      categoryType: "ar",
-      categoryColor: "steel-accent-bg",
-    },
+{
+  id: "ar-interior",
+  title: "Spaciefy",
+  description:
+    "Revolutionary augmented reality platform that transforms interior design through real-time 3D visualization and AI-powered recommendations.",
+  category: "AR/VR",
+  status: "Available Now",
+  image:
+    "https://ik.imagekit.io/6o8m1snqt/WhatsApp%20Image%202025-08-19%20at%203.22.10%20PM.jpeg?updatedAt=1755597667298",
+  categoryType: "ar",
+  categoryColor: "steel-accent-bg",
+  link: "https://final-i3i0.onrender.com/",
+  cta: "Visit Project",
+}
+
+
     {
       id: "neural-diagnostics",
       title: "Neural Engine",
