@@ -34,7 +34,7 @@ export default function Projects() {
   categoryColor: "steel-accent-bg",
   link: "https://final-i3i0.onrender.com/",
   cta: "Visit Project",
-}
+},
 
 
     {
